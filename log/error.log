@@ -1,0 +1,38 @@
+2021/05/05 23:41:45 open .env: no such file or directory
+2021/05/05 23:41:45 invalid argument
+2021/05/05 23:41:45 sql: unknown driver "" (forgotten import?)
+2021/05/05 23:42:23 dial tcp: lookup mysql on 172.28.48.1:53: no such host
+2021/05/05 23:45:00 dial tcp: lookup mysql on 172.28.48.1:53: no such host
+2021/05/05 23:45:23 dial tcp: lookup mysql on 172.28.48.1:53: no such host
+2021/05/06 00:39:49 Error when query : Error 1146: Table 'wp_master.users' doesn't exist
+2021/05/06 00:39:49 Error when query : Error 1146: Table 'wp_master.users' doesn't exist
+2021/05/06 00:39:49 Error when query : Error 1146: Table 'wp_master.users' doesn't exist
+2021/05/06 00:49:49 Error when query : Error 1146: Table 'wp_master.users' doesn't exist
+2021/05/06 00:49:49 Error when query : Error 1146: Table 'wp_master.users' doesn't exist
+2021/05/06 00:49:49 Error when query : Error 1146: Table 'wp_master.users' doesn't exist
+2021/05/06 01:19:49 Error when query : Error 1146: Table 'wp_master.users' doesn't exist
+2021/05/06 01:19:49 Error when query : Error 1146: Table 'wp_master.users' doesn't exist
+2021/05/06 01:19:49 Error when query : Error 1146: Table 'wp_master.users' doesn't exist
+2021/05/06 19:00:38 sql: Scan error on column index 2, name "total": converting NULL to int is unsupported
+2021/05/14 15:25:59 Failed initiated database
+2021/05/14 15:26:03 Failed initiated database
+2021/05/14 15:28:44 Failed initiated database
+2021/05/14 15:28:57 Failed initiated database
+2021/05/14 15:29:24 Failed initiated database
+2021/05/14 15:32:44 Failed initiated database
+2021/05/14 15:33:40 Failed initiated database : sql: unknown driver "mysql" (forgotten import?)
+2021/05/14 15:39:57 Failed initiated database : sql: unknown driver "mysql" (forgotten import?)
+2021/05/14 15:40:26 Failed initiated database : sql: unknown driver "mysql" (forgotten import?)
+2021/05/14 23:01:38 URL Query Date not found
+2021/05/14 23:03:41 URL Query Date not found
+2021/05/14 23:11:12 Error 1292: Incorrect date value: '' for column 'valid_date' at row 1
+2021/05/14 23:11:50 Error 1292: Incorrect date value: '' for column 'valid_date' at row 1
+2021/05/14 23:12:12 Error 1292: Incorrect date value: '' for column 'valid_date' at row 1
+2021/05/14 23:12:38 Error 1292: Incorrect date value: '' for column 'valid_date' at row 1
+2021/05/14 23:13:25 Error 1292: Incorrect date value: '' for column 'valid_date' at row 1
+2021/05/14 23:23:22 E-Rate tidak ditemukan.
+2021/05/14 23:24:45 E-Rate tidak ditemukan.
+2021/05/14 23:25:44 E-Rate tidak ditemukan.
+2021/05/14 23:26:06 E-Rate tidak ditemukan.
+2021/05/14 23:30:25 EOF
+2021/05/14 23:30:25 Kurs tidak ditemukan.

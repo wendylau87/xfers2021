@@ -1,0 +1,7 @@
+launch.json
+.DS_STORE
+/app/go_api_boilerplate
+/app/log/*
+!/app/log/.gitkeep
+.vscode/
+app
