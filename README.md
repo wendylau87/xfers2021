@@ -39,3 +39,9 @@ $ ./app
 1. open postman
 2. import postman file `BCG.postman_collection.json`
 3. execute postman 
+
+## Unit test
+1. Go to folder **xfers2021/domain/kurs/** then run this command
+```bash
+$ go test
+```
